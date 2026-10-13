@@ -6,7 +6,7 @@ const SUPABASE_URL = "https://fdcpttikdhgacvbvgiaz.supabase.co";
 // Copy only the publishable key (sb_publishable_...).
 // Never put the service_role or secret key in this file.
 
-const SUPABASE_PUBLISHABLE_KEY = "PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE";
+const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_abItI9VGcLvbrC4vZaGgWQ_ZboGzHph";
 
 const supabaseClient = window.supabase.createClient(
     SUPABASE_URL,
